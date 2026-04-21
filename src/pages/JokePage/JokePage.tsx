@@ -23,6 +23,7 @@ export const JokePage = () => {
   return (
     <div>
         Joke category = {category}
+        <p>{joke}</p>
     </div>
   )
 }
